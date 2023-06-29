@@ -1,0 +1,641 @@
+2023-06-03 09:43:45 LogWrapper init() ./logs/OpenAIGUI.log
+2023-06-03 10:08:37 Processing Script : Reading Topic dfhfdghdfghgh
+
+2023-06-03 10:10:17 Processing Script : Reading Topic sgdfgsg
+
+2023-06-03 10:10:17 Processing Script : Creating System Prompt from topic
+2023-06-03 10:10:17 Processing Script : Creating Content Prompt from topic
+2023-06-03 10:10:29 Processing Script : Received response from OpenAI API.
+2023-06-03 10:20:08 Processing Script : Reading Topic shdfhklsjfjlkenkmntgoie
+
+2023-06-03 10:20:08 Processing Script : Creating System Prompt from topic
+2023-06-03 10:20:08 Processing Script : Creating Content Prompt from topic
+2023-06-03 10:20:25 Processing Script : Received response from OpenAI API.
+2023-06-03 10:20:25                                                                       Title                                                                                                                                                                                                                                                                                                                                                      Description                                                                                           Hastag                                                                                                                                                                                                                                    Tags                                                                                                                                                                                                                                                                                                                                                                   Image Ideas
+0   "Exploring Hindu Mythology & Science: Uncovering the Ancient Wisdom" \n   Dive deep into the fascinating world of Hindu mythology and science with us! This exploration of ancient wisdom and modern scientific principles will open your eyes to the symbology embedded in scriptures like the Vedas, Upanishads, Bhagavad Gita, Ramayana, and Puranas. Join us as we uncover the interconnectedness of Hindu mythology and science. \n   #HinduMythology #Science #AncientWisdom #Vedas #Upanishads #BhagavadGita #Ramayana #Puranas \n   hindu mythology, science, ancient wisdom, vedas, upanishads, bhagavad gita, ramayana, puranas, explore, uncover, symbolism, symbology, narrative, scriptures, interconnectedness, principles, modern science, theories, hypotheses \n   \n1. A starry night sky with Hindu gods and goddesses in the foreground\n2. An open book revealing ancient scriptures\n3. A diagram featuring Hindu deities and scientific theories\n4. A scientist studying Hindu mythology in a lab\n5. A hand drawing Hindu symbols in the sand\n6. A person meditating in front of a tree with leaves in the shape of Hindu symbols\n\n
+2023-06-03 10:21:24 Processing Script : Completed.
+2023-06-03 10:21:25 Error in generate_response: main thread is not in main loop
+2023-06-03 13:09:41 Script Processor : Started
+2023-06-03 13:09:41 Script Processor : Reading Input Topic
+2023-06-03 13:09:41 Script Processor : Creating System Prompt from topic
+2023-06-03 13:09:41 Script Processor : Creating Content Prompt from topic
+2023-06-03 13:09:41 Script Processor : Connection to API.
+2023-06-03 13:10:02 Script Processor : Received response from API.
+2023-06-03 13:10:02 Script Processor : Received response from API.
+2023-06-03 13:10:02 Script Processor : Received response from API.
+2023-06-03 13:10:02 Error in generate_response: Logger.info() missing 1 required positional argument: 'msg'
+2023-06-03 13:23:39		Script Processor :		Started
+2023-06-03 13:23:39		Script Processor :		Reading Input Topic
+2023-06-03 13:23:39		Script Processor :		Creating System Prompt from topic
+2023-06-03 13:23:39		Script Processor :		Creating Content Prompt from topic
+2023-06-03 13:23:39		Script Processor : Connection to API.
+2023-06-03 13:24:02		Script Processor : Received response from API.
+2023-06-03 13:24:53		Processing Script : Completed.
+2023-06-03 13:24:54		Error in generate_response: main thread is not in main loop
+2023-06-03 16:02:17		----------------------------
+2023-06-03 16:02:17		- Script Processor : Started
+2023-06-03 16:02:17		- Script Processor : Input Topic Loaded Successfully
+2023-06-03 16:02:17		- Script Processor :  Input System Prompt Written Successfully
+2023-06-03 16:02:17		- Script Processor :  Input Prompt Written Successfully
+2023-06-03 16:02:17		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:02:17		- Script Processor :  Loading API Credentials.
+2023-06-03 16:02:41		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:02:41		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:02:41		Error in generate_response: process_response() missing 1 required positional argument: 'logger'
+2023-06-03 16:04:41		----------------------------
+2023-06-03 16:04:41		- Script Processor : Started
+2023-06-03 16:04:41		- Script Processor : Input Topic Loaded Successfully
+2023-06-03 16:04:41		- Script Processor :  Input System Prompt Written Successfully
+2023-06-03 16:04:41		- Script Processor :  Input Prompt Written Successfully
+2023-06-03 16:04:41		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:04:41		- Script Processor :  Loading API Credentials.
+2023-06-03 16:05:12		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:05:12		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:05:12		- Script Processor :  Clean API Response
+2023-06-03 16:05:12		- Script Processor :  Split The Text
+2023-06-03 16:05:12		- Script Processor :  Dictionary to a DataFrame
+2023-06-03 16:05:12		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-03 16:05:12		- Script Processor :  Writing Out Script.
+2023-06-03 16:05:12		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:05:12		- Script Processor :  Loading API Credentials.
+2023-06-03 16:05:30		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:05:30		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:05:30		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-03 16:05:30		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-03 16:06:18		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-03 16:06:18		Processing Script : Completed.
+2023-06-03 16:25:45		----------------------------
+2023-06-03 16:25:45		- Script Processor : Started
+2023-06-03 16:25:45		- Script Processor : Input Topic Loaded Successfully
+2023-06-03 16:25:45		- Script Processor :  Input System Prompt Written Successfully
+2023-06-03 16:25:45		- Script Processor :  Input Prompt Written Successfully
+2023-06-03 16:25:45		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:25:45		- Script Processor :  Loading API Credentials.
+2023-06-03 16:26:08		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:26:08		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:26:08		- Script Processor :  Clean API Response
+2023-06-03 16:26:08		- Script Processor :  Split The Text
+2023-06-03 16:26:08		- Script Processor :  Dictionary to a DataFrame
+2023-06-03 16:26:08		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-03 16:26:08		- Script Processor :  Writing Out Script.
+2023-06-03 16:26:08		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:26:08		- Script Processor :  Loading API Credentials.
+2023-06-03 16:26:21		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:26:21		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:26:21		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-03 16:26:21		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-03 16:26:56		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-03 16:26:56		Processing Script : Completed.
+2023-06-04 16:51:11		----------------------------
+2023-06-04 16:51:11		- Script Processor : Started
+2023-06-04 16:51:11		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 16:51:11		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 16:51:11		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 16:51:11		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:51:11		- Script Processor :  Loading API Credentials.
+2023-06-04 16:51:42		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:51:42		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:51:42		- Script Processor :  Clean API Response
+2023-06-04 16:51:42		- Script Processor :  Split The Text
+2023-06-04 16:51:42		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 16:51:42		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 16:51:42		- Script Processor :  Writing Out Script.
+2023-06-04 16:51:42		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:51:42		- Script Processor :  Loading API Credentials.
+2023-06-04 16:51:56		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:51:56		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:51:56		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-04 16:51:56		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 16:52:30		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-04 16:52:30		- Script Processor : Compeleted
+2023-06-04 16:52:31		----------------------------
+2023-06-04 16:57:12		----------------------------
+2023-06-04 16:57:12		- Script Processor : Started
+2023-06-04 16:57:12		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 16:57:12		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 16:57:12		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 16:57:12		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:57:12		- Script Processor :  Loading API Credentials.
+2023-06-04 16:57:38		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:57:38		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:57:38		- Script Processor :  Clean API Response
+2023-06-04 16:57:38		- Script Processor :  Split The Text
+2023-06-04 16:57:38		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 16:57:38		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 16:57:38		- Script Processor :  Writing Out Script.
+2023-06-04 16:57:38		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:57:38		- Script Processor :  Loading API Credentials.
+2023-06-04 16:57:55		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:57:55		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:57:55		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-04 16:57:55		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 16:58:33		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-04 16:58:33		- Script Processor : Compeleted
+2023-06-04 16:58:33		----------------------------
+2023-06-04 20:49:25		----------------------------
+2023-06-04 20:49:25		- Script Processor : Started
+2023-06-04 20:49:25		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 20:49:25		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 20:49:25		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 20:49:25		- Script Processor :  Starting API Connection Process.
+2023-06-04 20:49:25		- Script Processor :  Loading API Credentials.
+2023-06-04 20:49:52		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 20:49:52		- Script Processor :  Output API Response Written Successfully
+2023-06-04 20:49:52		- Script Processor :  Clean API Response
+2023-06-04 20:49:52		- Script Processor :  Split The Text
+2023-06-04 20:49:52		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 20:49:52		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 20:49:52		- Script Processor :  Writing Out Script.
+2023-06-04 20:49:52		- Script Processor :  Starting API Connection Process.
+2023-06-04 20:49:52		- Script Processor :  Loading API Credentials.
+2023-06-04 20:50:12		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 20:50:12		- Script Processor :  Output API Response Written Successfully
+2023-06-04 20:50:12		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-04 20:50:12		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 20:50:55		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-04 20:50:55		- Script Processor : Compeleted
+2023-06-04 20:50:55		----------------------------
+2023-06-04 21:27:57		----------------------------
+2023-06-04 21:27:57		- Script Processor : Started
+2023-06-04 21:27:57		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 21:27:57		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 21:27:57		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 21:27:57		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:27:57		- Script Processor :  Loading API Credentials.
+2023-06-04 21:28:23		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:28:23		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:28:23		- Script Processor :  Clean API Response
+2023-06-04 21:28:23		- Script Processor :  Split The Text
+2023-06-04 21:28:23		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 21:28:23		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 21:28:23		- Script Processor :  Writing Out Script.
+2023-06-04 21:28:23		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:28:23		- Script Processor :  Loading API Credentials.
+2023-06-04 21:28:35		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:28:35		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:28:35		- Script Processor :  An unexpected error occurred: [Errno 13] Permission denied: 'youtube_content.csv'
+2023-06-04 21:28:35		- Script Processor :  An unexpected error occurred: 'utf-8' codec can't decode byte 0x92 in position 1321: invalid start byte
+2023-06-04 21:28:35		Error in generate_response: object of type 'NoneType' has no len()
+2023-06-04 21:28:45		----------------------------
+2023-06-04 21:28:45		- Script Processor : Started
+2023-06-04 21:28:45		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 21:28:45		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 21:28:45		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 21:28:45		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:28:45		- Script Processor :  Loading API Credentials.
+2023-06-04 21:29:07		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:29:07		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:29:08		- Script Processor :  Clean API Response
+2023-06-04 21:29:08		- Script Processor :  Split The Text
+2023-06-04 21:29:08		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 21:29:08		- Script Processor :  An error occurred: Length mismatch: Expected axis has 0 elements, new values have 5 elements
+2023-06-04 21:29:08		- Script Processor :  Writing Out Script.
+2023-06-04 21:29:08		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:29:08		- Script Processor :  Loading API Credentials.
+2023-06-04 21:29:32		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:29:32		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:29:32		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-04 21:32:02		----------------------------
+2023-06-04 21:32:02		- Script Processor : Started
+2023-06-04 21:32:02		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 21:32:02		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 21:32:02		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 21:32:02		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:32:02		- Script Processor :  Loading API Credentials.
+2023-06-04 21:32:23		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:32:23		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:32:23		- Script Processor :  Clean API Response
+2023-06-04 21:32:23		- Script Processor :  Split The Text
+2023-06-04 21:32:23		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 21:32:23		- Script Processor :  An error occurred: Length mismatch: Expected axis has 0 elements, new values have 5 elements
+2023-06-04 21:32:23		- Script Processor :  Writing Out Script.
+2023-06-04 21:32:23		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:32:23		- Script Processor :  Loading API Credentials.
+2023-06-04 21:32:43		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:32:43		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:32:43		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-04 21:35:46		----------------------------
+2023-06-04 21:35:46		- Script Processor : Started
+2023-06-04 21:35:46		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 21:35:46		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 21:35:46		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 21:35:46		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:35:46		- Script Processor :  Loading API Credentials.
+2023-06-04 21:36:09		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:36:09		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:36:09		- Script Processor :  Clean API Response
+2023-06-04 21:36:09		- Script Processor :  Split The Text
+2023-06-04 21:36:09		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 21:36:09		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 21:36:09		- Script Processor :  Writing Out Script.
+2023-06-04 21:36:09		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:36:09		- Script Processor :  Loading API Credentials.
+2023-06-04 21:36:31		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:36:31		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:36:31		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-04 21:36:31		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 21:37:07		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-04 21:37:07		- Script Processor : Compeleted
+2023-06-04 21:37:07		----------------------------
+2023-06-04 21:58:27		----------------------------
+2023-06-04 21:58:27		- Script Processor : Started
+2023-06-04 21:58:27		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 21:58:27		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 21:58:27		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 21:58:27		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:58:27		- Script Processor :  Loading API Credentials.
+2023-06-04 21:58:50		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:58:50		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:58:50		- Script Processor :  Clean API Response
+2023-06-04 21:58:50		- Script Processor :  Split The Text
+2023-06-04 21:58:50		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 21:58:50		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 21:58:50		- Script Processor :  Writing Out Script.
+2023-06-04 21:58:50		- Script Processor :  Starting API Connection Process.
+2023-06-04 21:58:50		- Script Processor :  Loading API Credentials.
+2023-06-04 21:59:06		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 21:59:06		- Script Processor :  Output API Response Written Successfully
+2023-06-04 21:59:06		- Script Processor :  An unexpected error occurred: [Errno 13] Permission denied: 'youtube_content.csv'
+2023-06-04 21:59:06		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 22:00:07		----------------------------
+2023-06-04 22:00:07		- Script Processor : Started
+2023-06-04 22:00:07		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 22:00:07		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 22:00:07		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 22:00:07		- Script Processor :  Starting API Connection Process.
+2023-06-04 22:00:07		- Script Processor :  Loading API Credentials.
+2023-06-04 22:00:28		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 22:00:28		- Script Processor :  Output API Response Written Successfully
+2023-06-04 22:00:28		- Script Processor :  Clean API Response
+2023-06-04 22:00:29		- Script Processor :  Split The Text
+2023-06-04 22:00:29		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 22:00:29		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 22:00:29		- Script Processor :  Writing Out Script.
+2023-06-04 22:00:29		- Script Processor :  Starting API Connection Process.
+2023-06-04 22:00:29		- Script Processor :  Loading API Credentials.
+2023-06-04 22:00:48		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 22:00:48		- Script Processor :  Output API Response Written Successfully
+2023-06-04 22:00:48		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-04 22:00:48		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 22:01:46		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-04 22:01:46		- Script Processor : Compeleted
+2023-06-04 22:01:46		----------------------------
+2023-06-05 18:47:03		----------------------------
+2023-06-05 18:47:03		- Script Processor : Started
+2023-06-05 18:47:03		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 18:47:03		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 18:47:03		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 18:47:03		- Script Processor :  Starting API Connection Process.
+2023-06-05 18:47:03		- Script Processor :  Loading API Credentials.
+2023-06-05 18:47:25		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 18:47:25		- Script Processor :  Output API Response Written Successfully
+2023-06-05 18:47:25		- Script Processor :  Clean API Response
+2023-06-05 18:47:25		- Script Processor :  Split The Text
+2023-06-05 18:47:25		- Script Processor :  Dictionary to a DataFrame
+2023-06-05 18:47:25		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-05 18:47:25		- Script Processor :  Writing Out Script.
+2023-06-05 18:47:25		- Script Processor :  Starting API Connection Process.
+2023-06-05 18:47:25		- Script Processor :  Loading API Credentials.
+2023-06-05 18:47:51		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 18:47:51		- Script Processor :  Output API Response Written Successfully
+2023-06-05 18:47:51		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-05 18:47:51		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-05 18:48:38		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-05 18:48:38		- Script Processor : Compeleted
+2023-06-05 18:48:38		----------------------------
+2023-06-05 21:17:45		----------------------------
+2023-06-05 21:17:45		- Script Processor : Started
+2023-06-05 21:17:45		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:17:45		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:17:45		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:17:45		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:17:45		- Script Processor :  Loading API Credentials.
+2023-06-05 21:18:09		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:18:09		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:18:09		- Script Processor :  Clean API Response
+2023-06-05 21:18:09		- Script Processor :  Split The Text
+2023-06-05 21:18:09		- Script Processor :  Dictionary to a DataFrame
+2023-06-05 21:18:09		- Script Processor :  An error occurred: Length mismatch: Expected axis has 0 elements, new values have 5 elements
+2023-06-05 21:18:09		- Script Processor :  Writing Out Script.
+2023-06-05 21:18:09		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:18:09		- Script Processor :  Loading API Credentials.
+2023-06-05 21:19:11		----------------------------
+2023-06-05 21:19:11		- Script Processor : Started
+2023-06-05 21:19:11		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:19:11		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:19:11		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:19:11		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:19:11		- Script Processor :  Loading API Credentials.
+2023-06-05 21:19:38		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:19:38		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:19:38		- Script Processor :  Clean API Response
+2023-06-05 21:19:38		- Script Processor :  Split The Text
+2023-06-05 21:19:38		- Script Processor :  Dictionary to a DataFrame
+2023-06-05 21:19:38		- Script Processor :  An error occurred: Length mismatch: Expected axis has 0 elements, new values have 5 elements
+2023-06-05 21:19:38		- Script Processor :  Writing Out Script.
+2023-06-05 21:19:38		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:19:38		- Script Processor :  Loading API Credentials.
+2023-06-05 21:19:59		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:20:00		Error in generate_response: main thread is not in main loop
+2023-06-05 21:20:10		----------------------------
+2023-06-05 21:20:10		- Script Processor : Started
+2023-06-05 21:20:10		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:20:10		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:20:10		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:20:10		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:20:10		- Script Processor :  Loading API Credentials.
+2023-06-05 21:20:37		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:20:37		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:20:37		- Script Processor :  Clean API Response
+2023-06-05 21:20:37		- Script Processor :  Split The Text
+2023-06-05 21:20:37		- Script Processor :  Dictionary to a DataFrame
+2023-06-05 21:20:37		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-05 21:20:37		- Script Processor :  Writing Out Script.
+2023-06-05 21:20:37		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:20:37		- Script Processor :  Loading API Credentials.
+2023-06-05 21:20:57		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:20:57		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:20:57		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-05 21:20:57		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-05 21:21:36		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-05 21:21:36		- Script Processor : Compeleted
+2023-06-05 21:21:36		----------------------------
+2023-06-05 21:24:34		----------------------------
+2023-06-05 21:24:34		- Script Processor : Started
+2023-06-05 21:24:34		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:24:34		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:24:34		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:24:34		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:24:34		- Script Processor :  Loading API Credentials.
+2023-06-05 21:24:34		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4144 tokens (1144 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:24:34		- Script Processor :  Clean API Response
+2023-06-05 21:24:34		- Script Processor :  Split The Text
+2023-06-05 21:24:34		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:24:34		- Script Processor :  Writing Out Script.
+2023-06-05 21:24:34		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:24:34		- Script Processor :  Loading API Credentials.
+2023-06-05 21:24:56		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:24:57		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:24:57		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-05 21:27:46		----------------------------
+2023-06-05 21:27:46		- Script Processor : Started
+2023-06-05 21:27:46		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:27:46		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:27:46		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:27:46		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:27:46		- Script Processor :  Loading API Credentials.
+2023-06-05 21:27:47		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 5016 tokens (1016 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:27:47		- Script Processor :  Clean API Response
+2023-06-05 21:27:47		- Script Processor :  Split The Text
+2023-06-05 21:27:47		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:27:47		- Script Processor :  Writing Out Script.
+2023-06-05 21:27:47		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:27:47		- Script Processor :  Loading API Credentials.
+2023-06-05 21:30:10		----------------------------
+2023-06-05 21:30:10		- Script Processor : Started
+2023-06-05 21:30:10		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:30:10		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:30:10		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:30:10		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:30:10		- Script Processor :  Loading API Credentials.
+2023-06-05 21:30:11		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4970 tokens (970 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:30:11		- Script Processor :  Clean API Response
+2023-06-05 21:30:11		- Script Processor :  Split The Text
+2023-06-05 21:30:11		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:30:11		- Script Processor :  Writing Out Script.
+2023-06-05 21:30:11		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:30:11		- Script Processor :  Loading API Credentials.
+2023-06-05 21:30:35		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:30:35		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:30:35		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-05 21:30:45		----------------------------
+2023-06-05 21:30:45		- Script Processor : Started
+2023-06-05 21:30:45		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:30:45		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:30:45		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:30:45		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:30:45		- Script Processor :  Loading API Credentials.
+2023-06-05 21:30:46		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4952 tokens (952 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:30:46		- Script Processor :  Clean API Response
+2023-06-05 21:30:46		- Script Processor :  Split The Text
+2023-06-05 21:30:46		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:30:46		- Script Processor :  Writing Out Script.
+2023-06-05 21:30:46		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:30:46		- Script Processor :  Loading API Credentials.
+2023-06-05 21:31:06		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:31:07		Error in generate_response: main thread is not in main loop
+2023-06-05 21:31:16		----------------------------
+2023-06-05 21:31:16		- Script Processor : Started
+2023-06-05 21:31:16		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:31:16		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:31:16		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:31:16		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:31:16		- Script Processor :  Loading API Credentials.
+2023-06-05 21:31:16		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4953 tokens (953 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:31:16		- Script Processor :  Clean API Response
+2023-06-05 21:31:16		- Script Processor :  Split The Text
+2023-06-05 21:31:16		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:31:16		- Script Processor :  Writing Out Script.
+2023-06-05 21:31:16		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:31:16		- Script Processor :  Loading API Credentials.
+2023-06-05 21:31:39		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:31:39		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:31:39		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-05 21:32:13		----------------------------
+2023-06-05 21:32:13		- Script Processor : Started
+2023-06-05 21:32:13		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:32:13		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:32:13		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:32:13		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:32:13		- Script Processor :  Loading API Credentials.
+2023-06-05 21:32:14		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4936 tokens (936 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:32:14		- Script Processor :  Clean API Response
+2023-06-05 21:32:14		- Script Processor :  Split The Text
+2023-06-05 21:32:14		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:32:14		- Script Processor :  Writing Out Script.
+2023-06-05 21:32:14		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:32:14		- Script Processor :  Loading API Credentials.
+2023-06-05 21:32:50		----------------------------
+2023-06-05 21:32:50		- Script Processor : Started
+2023-06-05 21:32:50		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:32:50		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:32:50		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:32:50		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:32:50		- Script Processor :  Loading API Credentials.
+2023-06-05 21:32:50		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4936 tokens (936 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:32:50		- Script Processor :  Clean API Response
+2023-06-05 21:32:50		- Script Processor :  Split The Text
+2023-06-05 21:32:50		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:32:50		- Script Processor :  Writing Out Script.
+2023-06-05 21:32:50		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:32:50		- Script Processor :  Loading API Credentials.
+2023-06-05 21:33:06		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:33:06		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:33:06		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-05 21:33:51		----------------------------
+2023-06-05 21:33:51		- Script Processor : Started
+2023-06-05 21:33:51		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:33:51		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:33:51		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:33:51		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:33:51		- Script Processor :  Loading API Credentials.
+2023-06-05 21:33:51		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4836 tokens (836 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:33:51		- Script Processor :  Clean API Response
+2023-06-05 21:33:51		- Script Processor :  Split The Text
+2023-06-05 21:33:52		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:33:52		- Script Processor :  Writing Out Script.
+2023-06-05 21:33:52		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:33:52		- Script Processor :  Loading API Credentials.
+2023-06-05 21:34:05		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:34:05		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:34:05		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-05 21:34:58		----------------------------
+2023-06-05 21:34:58		- Script Processor : Started
+2023-06-05 21:34:58		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:34:58		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:34:58		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:34:58		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:34:58		- Script Processor :  Loading API Credentials.
+2023-06-05 21:34:58		- Script Processor :  An error occurred: This model's maximum context length is 4097 tokens, however you requested 4823 tokens (823 in your prompt; 4000 for the completion). Please reduce your prompt; or completion length.
+2023-06-05 21:34:58		- Script Processor :  Clean API Response
+2023-06-05 21:34:58		- Script Processor :  Split The Text
+2023-06-05 21:34:58		- Script Processor :  An error occurred: 'NoneType' object has no attribute 'replace'
+2023-06-05 21:34:58		- Script Processor :  Writing Out Script.
+2023-06-05 21:34:58		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:34:58		- Script Processor :  Loading API Credentials.
+2023-06-05 21:35:15		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:35:15		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:35:15		Error in generate_response: 'NoneType' object does not support item assignment
+2023-06-05 21:35:41		----------------------------
+2023-06-05 21:35:41		- Script Processor : Started
+2023-06-05 21:35:41		- Script Processor : Input Topic Loaded Successfully
+2023-06-05 21:35:41		- Script Processor :  Input System Prompt Written Successfully
+2023-06-05 21:35:41		- Script Processor :  Input Prompt Written Successfully
+2023-06-05 21:35:41		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:35:41		- Script Processor :  Loading API Credentials.
+2023-06-05 21:36:17		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:36:17		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:36:17		- Script Processor :  Clean API Response
+2023-06-05 21:36:17		- Script Processor :  Split The Text
+2023-06-05 21:36:17		- Script Processor :  Dictionary to a DataFrame
+2023-06-05 21:36:17		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-05 21:36:17		- Script Processor :  Writing Out Script.
+2023-06-05 21:36:17		- Script Processor :  Starting API Connection Process.
+2023-06-05 21:36:17		- Script Processor :  Loading API Credentials.
+2023-06-05 21:36:31		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-05 21:36:31		- Script Processor :  Output API Response Written Successfully
+2023-06-05 21:36:31		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-05 21:36:31		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-05 21:37:22		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-05 21:37:22		- Script Processor : Compeleted
+2023-06-05 21:37:22		----------------------------
+2023-06-07 16:14:46		----------------------------
+2023-06-07 16:14:46		- Script Processor : Started
+2023-06-07 16:14:46		- Script Processor : Input Topic Loaded Successfully
+2023-06-07 16:14:46		- Script Processor :  Input System Prompt Written Successfully
+2023-06-07 16:14:46		- Script Processor :  Input Prompt Written Successfully
+2023-06-07 16:14:46		- Script Processor :  Starting API Connection Process.
+2023-06-07 16:14:46		- Script Processor :  Loading API Credentials.
+2023-06-07 16:15:11		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-07 16:15:11		- Script Processor :  Output API Response Written Successfully
+2023-06-07 16:15:11		- Script Processor :  Clean API Response
+2023-06-07 16:15:11		- Script Processor :  Split The Text
+2023-06-07 16:15:11		- Script Processor :  Dictionary to a DataFrame
+2023-06-07 16:15:11		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-07 16:15:11		- Script Processor :  Writing Out Script.
+2023-06-07 16:15:11		- Script Processor :  Starting API Connection Process.
+2023-06-07 16:15:12		- Script Processor :  Loading API Credentials.
+2023-06-07 16:15:26		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-07 16:15:26		- Script Processor :  Output API Response Written Successfully
+2023-06-07 16:15:26		- Script Processor :  An unexpected error occurred: [Errno 13] Permission denied: 'youtube_content.csv'
+2023-06-07 16:15:26		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-07 16:15:59		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-07 16:16:00		- Script Processor : Compeleted
+2023-06-07 16:16:00		----------------------------
+2023-06-07 16:17:33		----------------------------
+2023-06-07 16:17:33		- Script Processor : Started
+2023-06-07 16:17:33		- Script Processor : Input Topic Loaded Successfully
+2023-06-07 16:17:33		- Script Processor :  Input System Prompt Written Successfully
+2023-06-07 16:17:33		- Script Processor :  Input Prompt Written Successfully
+2023-06-07 16:17:33		- Script Processor :  Starting API Connection Process.
+2023-06-07 16:17:33		- Script Processor :  Loading API Credentials.
+2023-06-07 16:17:53		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-07 16:17:53		- Script Processor :  Output API Response Written Successfully
+2023-06-07 16:17:53		- Script Processor :  Clean API Response
+2023-06-07 16:17:53		- Script Processor :  Split The Text
+2023-06-07 16:17:53		- Script Processor :  Dictionary to a DataFrame
+2023-06-07 16:17:53		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-07 16:17:53		- Script Processor :  Writing Out Script.
+2023-06-07 16:17:53		- Script Processor :  Starting API Connection Process.
+2023-06-07 16:17:53		- Script Processor :  Loading API Credentials.
+2023-06-07 16:18:05		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-07 16:18:05		- Script Processor :  Output API Response Written Successfully
+2023-06-07 16:18:05		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-07 16:18:05		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-07 16:18:42		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-07 16:18:42		- Script Processor : Compeleted
+2023-06-07 16:18:42		----------------------------
+2023-06-09 15:21:31		----------------------------
+2023-06-09 15:21:31		- Script Processor : Started
+2023-06-09 15:21:31		- Script Processor : Input Topic Loaded Successfully
+2023-06-09 15:21:31		- Script Processor :  Input System Prompt Written Successfully
+2023-06-09 15:21:31		- Script Processor :  Input Prompt Written Successfully
+2023-06-09 15:21:31		- Script Processor :  Starting API Connection Process.
+2023-06-09 15:21:31		- Script Processor :  Loading API Credentials.
+2023-06-09 15:21:54		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-09 15:21:54		- Script Processor :  Output API Response Written Successfully
+2023-06-09 15:21:54		- Script Processor :  Clean API Response
+2023-06-09 15:21:54		- Script Processor :  Split The Text
+2023-06-09 15:21:54		- Script Processor :  Dictionary to a DataFrame
+2023-06-09 15:21:54		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-09 15:21:54		- Script Processor :  Writing Out Script.
+2023-06-09 15:21:54		- Script Processor :  Starting API Connection Process.
+2023-06-09 15:21:54		- Script Processor :  Loading API Credentials.
+2023-06-09 15:22:05		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-09 15:22:05		- Script Processor :  Output API Response Written Successfully
+2023-06-09 15:22:05		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-09 15:22:05		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-09 15:22:32		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-09 15:22:32		- Script Processor : Compeleted
+2023-06-09 15:22:32		----------------------------
+2023-06-16 11:29:25		----------------------------
+2023-06-16 11:29:25		- Script Processor : Started
+2023-06-16 11:29:25		- Script Processor : Input Topic Loaded Successfully
+2023-06-16 11:29:25		- Script Processor :  Input System Prompt Written Successfully
+2023-06-16 11:29:25		- Script Processor :  Input Prompt Written Successfully
+2023-06-16 11:29:25		- Script Processor :  Starting API Connection Process.
+2023-06-16 11:29:25		- Script Processor :  Loading API Credentials.
+2023-06-16 11:29:48		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-16 11:29:48		- Script Processor :  Output API Response Written Successfully
+2023-06-16 11:29:48		- Script Processor :  Clean API Response
+2023-06-16 11:29:48		- Script Processor :  Split The Text
+2023-06-16 11:29:48		- Script Processor :  Dictionary to a DataFrame
+2023-06-16 11:29:48		- Script Processor :  An error occurred: Length mismatch: Expected axis has 0 elements, new values have 5 elements
+2023-06-16 11:29:48		- Script Processor :  Writing Out Script.
+2023-06-16 11:29:48		- Script Processor :  Starting API Connection Process.
+2023-06-16 11:29:48		- Script Processor :  Loading API Credentials.
+2023-06-16 11:30:03		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-16 11:30:04		Error in generate_response: main thread is not in main loop
+2023-06-16 11:30:21		----------------------------
+2023-06-16 11:30:21		- Script Processor : Started
+2023-06-16 11:30:21		- Script Processor : Input Topic Loaded Successfully
+2023-06-16 11:30:21		- Script Processor :  Input System Prompt Written Successfully
+2023-06-16 11:30:21		- Script Processor :  Input Prompt Written Successfully
+2023-06-16 11:30:21		- Script Processor :  Starting API Connection Process.
+2023-06-16 11:30:21		- Script Processor :  Loading API Credentials.
+2023-06-16 11:30:42		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-16 11:30:42		- Script Processor :  Output API Response Written Successfully
+2023-06-16 11:30:42		- Script Processor :  Clean API Response
+2023-06-16 11:30:42		- Script Processor :  Split The Text
+2023-06-16 11:30:42		- Script Processor :  Dictionary to a DataFrame
+2023-06-16 11:30:42		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-16 11:30:42		- Script Processor :  Writing Out Script.
+2023-06-16 11:30:42		- Script Processor :  Starting API Connection Process.
+2023-06-16 11:30:42		- Script Processor :  Loading API Credentials.
+2023-06-16 11:30:58		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-16 11:30:58		- Script Processor :  Output API Response Written Successfully
+2023-06-16 11:30:58		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-16 11:30:58		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-16 11:31:35		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-16 11:31:35		- Script Processor : Compeleted
+2023-06-16 11:31:35		----------------------------

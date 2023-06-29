@@ -1,0 +1,134 @@
+2023-06-03 09:43:45 LogWrapper init() ./logs/OpenAIGUI.log
+2023-06-03 10:08:37 Processing Script : Reading Topic dfhfdghdfghgh
+
+2023-06-03 10:10:17 Processing Script : Reading Topic sgdfgsg
+
+2023-06-03 10:10:17 Processing Script : Creating System Prompt from topic
+2023-06-03 10:10:17 Processing Script : Creating Content Prompt from topic
+2023-06-03 10:10:29 Processing Script : Received response from OpenAI API.
+2023-06-03 10:20:08 Processing Script : Reading Topic shdfhklsjfjlkenkmntgoie
+
+2023-06-03 10:20:08 Processing Script : Creating System Prompt from topic
+2023-06-03 10:20:08 Processing Script : Creating Content Prompt from topic
+2023-06-03 10:20:25 Processing Script : Received response from OpenAI API.
+2023-06-03 10:20:25                                                                       Title                                                                                                                                                                                                                                                                                                                                                      Description                                                                                           Hastag                                                                                                                                                                                                                                    Tags                                                                                                                                                                                                                                                                                                                                                                   Image Ideas
+0   "Exploring Hindu Mythology & Science: Uncovering the Ancient Wisdom" \n   Dive deep into the fascinating world of Hindu mythology and science with us! This exploration of ancient wisdom and modern scientific principles will open your eyes to the symbology embedded in scriptures like the Vedas, Upanishads, Bhagavad Gita, Ramayana, and Puranas. Join us as we uncover the interconnectedness of Hindu mythology and science. \n   #HinduMythology #Science #AncientWisdom #Vedas #Upanishads #BhagavadGita #Ramayana #Puranas \n   hindu mythology, science, ancient wisdom, vedas, upanishads, bhagavad gita, ramayana, puranas, explore, uncover, symbolism, symbology, narrative, scriptures, interconnectedness, principles, modern science, theories, hypotheses \n   \n1. A starry night sky with Hindu gods and goddesses in the foreground\n2. An open book revealing ancient scriptures\n3. A diagram featuring Hindu deities and scientific theories\n4. A scientist studying Hindu mythology in a lab\n5. A hand drawing Hindu symbols in the sand\n6. A person meditating in front of a tree with leaves in the shape of Hindu symbols\n\n
+2023-06-03 10:21:24 Processing Script : Completed.
+2023-06-03 10:21:25 Error in generate_response: main thread is not in main loop
+2023-06-03 13:09:41 Script Processor : Started
+2023-06-03 13:09:41 Script Processor : Reading Input Topic
+2023-06-03 13:09:41 Script Processor : Creating System Prompt from topic
+2023-06-03 13:09:41 Script Processor : Creating Content Prompt from topic
+2023-06-03 13:09:41 Script Processor : Connection to API.
+2023-06-03 13:10:02 Script Processor : Received response from API.
+2023-06-03 13:10:02 Script Processor : Received response from API.
+2023-06-03 13:10:02 Script Processor : Received response from API.
+2023-06-03 13:10:02 Error in generate_response: Logger.info() missing 1 required positional argument: 'msg'
+2023-06-03 13:23:39		Script Processor :		Started
+2023-06-03 13:23:39		Script Processor :		Reading Input Topic
+2023-06-03 13:23:39		Script Processor :		Creating System Prompt from topic
+2023-06-03 13:23:39		Script Processor :		Creating Content Prompt from topic
+2023-06-03 13:23:39		Script Processor : Connection to API.
+2023-06-03 13:24:02		Script Processor : Received response from API.
+2023-06-03 13:24:53		Processing Script : Completed.
+2023-06-03 13:24:54		Error in generate_response: main thread is not in main loop
+2023-06-03 16:02:17		----------------------------
+2023-06-03 16:02:17		- Script Processor : Started
+2023-06-03 16:02:17		- Script Processor : Input Topic Loaded Successfully
+2023-06-03 16:02:17		- Script Processor :  Input System Prompt Written Successfully
+2023-06-03 16:02:17		- Script Processor :  Input Prompt Written Successfully
+2023-06-03 16:02:17		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:02:17		- Script Processor :  Loading API Credentials.
+2023-06-03 16:02:41		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:02:41		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:02:41		Error in generate_response: process_response() missing 1 required positional argument: 'logger'
+2023-06-03 16:04:41		----------------------------
+2023-06-03 16:04:41		- Script Processor : Started
+2023-06-03 16:04:41		- Script Processor : Input Topic Loaded Successfully
+2023-06-03 16:04:41		- Script Processor :  Input System Prompt Written Successfully
+2023-06-03 16:04:41		- Script Processor :  Input Prompt Written Successfully
+2023-06-03 16:04:41		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:04:41		- Script Processor :  Loading API Credentials.
+2023-06-03 16:05:12		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:05:12		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:05:12		- Script Processor :  Clean API Response
+2023-06-03 16:05:12		- Script Processor :  Split The Text
+2023-06-03 16:05:12		- Script Processor :  Dictionary to a DataFrame
+2023-06-03 16:05:12		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-03 16:05:12		- Script Processor :  Writing Out Script.
+2023-06-03 16:05:12		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:05:12		- Script Processor :  Loading API Credentials.
+2023-06-03 16:05:30		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:05:30		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:05:30		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-03 16:05:30		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-03 16:06:18		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-03 16:06:18		Processing Script : Completed.
+2023-06-03 16:25:45		----------------------------
+2023-06-03 16:25:45		- Script Processor : Started
+2023-06-03 16:25:45		- Script Processor : Input Topic Loaded Successfully
+2023-06-03 16:25:45		- Script Processor :  Input System Prompt Written Successfully
+2023-06-03 16:25:45		- Script Processor :  Input Prompt Written Successfully
+2023-06-03 16:25:45		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:25:45		- Script Processor :  Loading API Credentials.
+2023-06-03 16:26:08		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:26:08		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:26:08		- Script Processor :  Clean API Response
+2023-06-03 16:26:08		- Script Processor :  Split The Text
+2023-06-03 16:26:08		- Script Processor :  Dictionary to a DataFrame
+2023-06-03 16:26:08		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-03 16:26:08		- Script Processor :  Writing Out Script.
+2023-06-03 16:26:08		- Script Processor :  Starting API Connection Process.
+2023-06-03 16:26:08		- Script Processor :  Loading API Credentials.
+2023-06-03 16:26:21		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-03 16:26:21		- Script Processor :  Output API Response Written Successfully
+2023-06-03 16:26:21		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-03 16:26:21		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-03 16:26:56		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-03 16:26:56		Processing Script : Completed.
+2023-06-04 16:51:11		----------------------------
+2023-06-04 16:51:11		- Script Processor : Started
+2023-06-04 16:51:11		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 16:51:11		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 16:51:11		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 16:51:11		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:51:11		- Script Processor :  Loading API Credentials.
+2023-06-04 16:51:42		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:51:42		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:51:42		- Script Processor :  Clean API Response
+2023-06-04 16:51:42		- Script Processor :  Split The Text
+2023-06-04 16:51:42		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 16:51:42		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 16:51:42		- Script Processor :  Writing Out Script.
+2023-06-04 16:51:42		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:51:42		- Script Processor :  Loading API Credentials.
+2023-06-04 16:51:56		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:51:56		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:51:56		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-04 16:51:56		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 16:52:30		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-04 16:52:30		- Script Processor : Compeleted
+2023-06-04 16:52:31		----------------------------
+2023-06-04 16:57:12		----------------------------
+2023-06-04 16:57:12		- Script Processor : Started
+2023-06-04 16:57:12		- Script Processor : Input Topic Loaded Successfully
+2023-06-04 16:57:12		- Script Processor :  Input System Prompt Written Successfully
+2023-06-04 16:57:12		- Script Processor :  Input Prompt Written Successfully
+2023-06-04 16:57:12		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:57:12		- Script Processor :  Loading API Credentials.
+2023-06-04 16:57:38		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:57:38		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:57:38		- Script Processor :  Clean API Response
+2023-06-04 16:57:38		- Script Processor :  Split The Text
+2023-06-04 16:57:38		- Script Processor :  Dictionary to a DataFrame
+2023-06-04 16:57:38		- Script Processor :  Output Title Description Hastags Tags Image Ideas Written Successfully
+2023-06-04 16:57:38		- Script Processor :  Writing Out Script.
+2023-06-04 16:57:38		- Script Processor :  Starting API Connection Process.
+2023-06-04 16:57:38		- Script Processor :  Loading API Credentials.
+2023-06-04 16:57:55		- Script Processor :  API Test Request Successful, Response Code: 200
+2023-06-04 16:57:55		- Script Processor :  Output API Response Written Successfully
+2023-06-04 16:57:55		- Script Processor :  youtube_content.csv Data saved successfully.
+2023-06-04 16:57:55		- Script Processor :  Read youtube_content.csv Successfully
+2023-06-04 16:58:33		- Script Processor :  midjournry_prompt.csv Data saved successfully.
+2023-06-04 16:58:33		- Script Processor : Compeleted
+2023-06-04 16:58:33		----------------------------
